@@ -1,3 +1,4 @@
+[<img align="center" alt="Dicoding | Website" height="28px" src="https://d17ivq9b7rppb3.cloudfront.net/original/academy/202103251356570b89930cd1eec7c1c52c1dbc38350885.jpeg" />](https://www.dicoding.com/academies/256)&ensp;  
 # Belajar Dasar Pemrograman JavaScript  
 
 Daftar materi yang dipelajari pada kelas:
