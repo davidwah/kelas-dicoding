@@ -27,3 +27,13 @@ Sebagai contoh, kita dapat menampilkan keluaran pada layar dalam satu bari kode 
 ```
 console.log("Hallo, Gaes!");
 ``` 
+
+## Menulis Kode JavaScript Pertama  
+
+Penulisan kode program pada bahasa pemrograman dapat dimaksudkan dengan menuliskan perintah atau intruksi yang nantinya dapat dijalankan oleh komputer. Pada JavaScript, kita dapat menampilkan pesan ke konsol yang ada pada web atau terminal, dengan menuliskan `console.log`.
+```
+console.log("Hallo, Gaes!");
+```
+|Output : |
+| :--     | 
+| Hallo, Gaes!|
