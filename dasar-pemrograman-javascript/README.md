@@ -13,4 +13,17 @@ Daftar materi yang dipelajari pada kelas:
 * **Error Handling** : Mempelajari bagaimana menangani kegagalan yang mungkin muncul dalam program, sehingga tidak berdampak kepada pengguna.
 * **Concurrency** : Mempelajari bagaimana menangani dan membuat proses asynchronous pada JavaScript.
 * **Node Package Manager** : Mengetahui beberapa library yang penting untuk ditambahkan ke dalam proyek aplikasi JavaScript.
-* **JavaScript Testing** : Mempelajari bagaimana melakukan pengujian otomatis pada kode JavaScript.
+* **JavaScript Testing** : Mempelajari bagaimana melakukan pengujian otomatis pada kode JavaScript.  
+
+## Apa itu JavaScript  
+
+JavaScript merupakan bahasa pemrograman tingkat tinggi yang pada awal dikembangkan bertujuan untuk membuat website menjadi lebih hidup. Sampai saat ini, JavaScript menjadi salah satu bahasa yang populer dan banyak digunakan pada aplikasi berbasis web.  
+
+Pada awal pengembangan JavaScript dibuat untuk dapat berjalan di lingkungan browser dan membuat tampilan browser menjadi lebih interaktif. Namun, hingga saat ini JavaScript sudah mengalami banyak pengembangan. Sehingga, JavaScript tidak hanya dijalankan pada browser, namun bisa digunakan sebagai aplikasi yang berjalan pada server.  
+
+JavaScript termasuk dalam scripting language yang merupakan bahasa pemrograman yang tidak perlu dikompilasi ketika hendak dijalankan. Di mana Scripting language menggunakan interpreter untuk menerjemahkan kode yang di tulis dapat dimengerti oleh mesin.  
+
+Sebagai contoh, kita dapat menampilkan keluaran pada layar dalam satu bari kode seperti berikut:
+```
+console.log("Hallo, Gaes!");
+``` 
