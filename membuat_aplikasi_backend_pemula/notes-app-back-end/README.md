@@ -11,10 +11,11 @@ Install NodeJS versi 14.x supaya bisa menggunakan eslint dengan lancar. Karena e
 ```
 
 langkah yang pada proyek nodejs-dicoding:
-- npm init --y
-- npm install nodemon --save-dev
-- npm install eslint --save-dev
-- npx eslint --init
+- `npm init --y`
+- `npm install nodemon --save-dev`
+- `npm install eslint --save-dev`
+- `npx eslint --init`  
+
     ```
     * How would you like to use ESLint? -> To check, find problems, and enforce code style.
     * What type of modules does your project use? -> CommonJS (require/exports).
@@ -26,7 +27,7 @@ langkah yang pada proyek nodejs-dicoding:
     * What format do you want your config file to be in? -> JSON.
     * Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
     ```
-- npm install @hapi/hapi
+- `npm install @hapi/hapi`
 - menit ke 44
 
 # Hasil Aplikasi Note
