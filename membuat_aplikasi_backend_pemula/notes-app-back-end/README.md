@@ -1,5 +1,5 @@
 # Install NodeJS
-Install NodeJS versi 14.x supaya bisa menggunakan eslint dengan lancar. Karena eslint hanya support pada versi 10 lebih.
+Install NodeJS versi 14.x supaya bisa menggunakan eslint dengan lancar. Karena eslint hanya support pada versi 10 ke atas.
 * `curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -`
 * `sudo apt-get install -y nodejs`
 * `node --version`
