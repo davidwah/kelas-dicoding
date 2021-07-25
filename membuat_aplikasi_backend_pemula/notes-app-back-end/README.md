@@ -30,5 +30,7 @@ langkah yang pada proyek nodejs-dicoding:
 - `npm install @hapi/hapi`
 - menit ke 44
 
+Menjalankan program yang telah di buat dengan perintah `npm run start` dan hasilnya dapat di lihat pada gambar di bawah ini.  
+
 # Hasil Aplikasi Note
 ![note-app](https://github.com/davidwah/kelas-dicoding/blob/main/membuat_aplikasi_backend_pemula/notes-app-back-end/src/Note-Apps.png)
